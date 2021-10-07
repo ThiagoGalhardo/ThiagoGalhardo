@@ -1,4 +1,4 @@
- - 👋 Hi, I’m @ThiagoGalhardo
+- 👋 Hi, I’m @ThiagoGalhardo
 - 👀 I’m interested in development mobile
 - 🌱 I’m currently studying kotlin 
 - 💞️ I’m looking to collaborate on project with Java or Kotlin
