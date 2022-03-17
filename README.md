@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThiagoGalhardo
-- 👀 I’m interested in development mobile
+- 👀 I’m interested in development web and mobile
 - 🌱 I’m currently studying kotlin 
-- 💞️ I’m looking to collaborate on project with Java or Kotlin
+- 💞️ I’m looking to collaborate on project with Javascript, Java or Kotlin
 - 📫 How to reach me: https://www.linkedin.com/in/thgalhardo/
 <div align="left">
   <a href="https://github.com/thiagogalhardo">
