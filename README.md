@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThiagoGalhardo
-- 👀 I’m interested in development web and mobile
-- 🌱 I’m currently studying kotlin 
-- 💞️ I’m looking to collaborate on project with Javascript, Java or Kotlin
+- 👀 I’m interested in development web, front and backend
+- 🌱 I’m currently studying PHP and Laravel framework 
+- 💞️ I’m looking to collaborate on project with PHP or Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/thgalhardo/
 - 💜 My website: https://galhardo.tech/
 <div align="left">
