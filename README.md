@@ -6,8 +6,8 @@
 - 💜 My website: https://galhardo.tech/
 <div align="left">
   <a href="https://github.com/thiagogalhardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogalhardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogalhardo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=thiagogalhardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src=https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=thiagogalhardo&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
   ##
