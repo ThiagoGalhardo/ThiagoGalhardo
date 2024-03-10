@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9745F5&width=435&lines=My+name+is+Thiago+Galhardo" alt="Typing SVG" /></a>
 </div>
 
-    🖥️I’m a Full Stack Developer
+    🖥️ I’m a Full Stack Developer
     💜 My website: https://galhardo.dev
 
 <div align="center">
