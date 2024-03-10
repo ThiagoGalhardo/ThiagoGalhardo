@@ -7,12 +7,10 @@
     🖥️I’m a Full Stack Developer
     💜 My website: https://galhardo.dev
 
-<a href="https://github.com/thiagogalhardo?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=purple) </a>
-
 <div align="center">
   <a href="https://github.com/thiagogalhardo">
-  <img width="50%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagogalhardo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelletakenawa&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img width="50%" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagogalhardo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelletakenawa&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 ##
