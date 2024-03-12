@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/thiagogalhardo">
-  <img width="50%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagogalhardo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="50%" height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagogalhardo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img width="40%" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGalhardo&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </div>
 
